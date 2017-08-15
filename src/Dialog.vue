@@ -10,7 +10,7 @@
 
 <script>
   export default {
-    name: 'dialog',
+    name: 'v-dialog',
     data() {
       return {}
     },
